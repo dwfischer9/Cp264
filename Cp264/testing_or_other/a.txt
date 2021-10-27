@@ -1,0 +1,2 @@
+prime:((not a3) and (not a2) and a1) or ((not a3) and a2 and a0) or ((not a2) and a1 and a0) or( a2 and (not a1) and a0);
+prime,a0=false,a1=true,a2=true,a3=true;
